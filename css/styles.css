@@ -1,0 +1,17 @@
+ul.list-item {
+	list-style: none;
+}
+
+.small-image {
+	max-width: 20%;
+	height:auto;
+
+}
+
+.ng-invalid.ng-dirty {
+	border-color:red;
+}
+
+.ng-valid.ng-dirty {
+	border-color: green;
+}
