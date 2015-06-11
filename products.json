@@ -51,6 +51,12 @@ var gems = [
  		stars: '4',
  	body: 'best purchase ever',
  	author: 'abc@abc.com',
+ 	},
+
+ 	{
+ 		stars: '5',
+ 	body: 'Happy with the purchase',
+ 	author: 'abc@abc.com',
  	}
 
  	],
