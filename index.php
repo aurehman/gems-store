@@ -68,7 +68,7 @@
     <div class="form-group">
     <label>by:</label>
     <input class="form-control" placeholder="email" type="email" ng-model="reviewCtrl.review.author" required />
-    <p>Review Form is {{reviewForm.$valid}}</p>
+    <p>Review Form is {{reviewForm.$valid}} </p>
     <input type="submit" class="btn btn-danger" />
     </div>
 
